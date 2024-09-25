@@ -3,12 +3,12 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCIWXWl1Y7LFf9gXjvyI_WaCGJiwg2Vuuk",
-  authDomain: "raps-points-db.firebaseapp.com",
-  projectId: "raps-points-db",
-  storageBucket: "raps-points-db.appspot.com",
-  messagingSenderId: "39755402475",
-  appId: "1:39755402475:web:88c1d437e46f3b6525c2ae"
+  apiKey: "AIzaSyAzX9xDi2_dAbNQijuHqZ8MEm-V_-HhYgA",
+  authDomain: "sports-day-db.firebaseapp.com",
+  projectId: "sports-day-db",
+  storageBucket: "sports-day-db.appspot.com",
+  messagingSenderId: "828947112094",
+  appId: "1:828947112094:web:b3bfe118938080a758db8f"
 };
 
 // Initialize Firebase
